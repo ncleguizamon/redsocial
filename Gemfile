@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 #Palperclip to uploap files 
 #gem "fog"
-gem "paperclip", "~> 4.2"
+gem "paperclip", "~> 5.2.0"
 # Use ActiveStorage variant
 gem 'mini_magick', '~> 4.8'
 
